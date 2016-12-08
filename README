@@ -1,0 +1,5 @@
+This is a LinearList with Template
+
+With Usual LinearList Operations
+as well as an extra function called Deletesimilar which delete text that matches a text, it finds the location of that text and then deletes it using the Delete (int k, T& x) fuction.
+
